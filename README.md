@@ -1,6 +1,6 @@
 ### Olá, meu nome é Milton Gomes
 
-### Bem-vindo ao meu perfil GitHub!
+### Bem-vindo ao meu perfil Github!
 
 ### Contatos:
 
