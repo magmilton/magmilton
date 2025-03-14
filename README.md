@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Milton Gomes!
 
 ## 🏗️ Especialista em Negócios e Tecnologia Imobiliária
-Sou empreendedor e profissional liberal com mais de 25 anos de experiência em gestão de negócios, tecnologia e intermediação imobiliária. Apaixonado por inovação, aplico soluções estratégicas para impulsionar resultados no setor imobiliário e empresarial.
+Desenvolvedor WordPress com experiência na criação e personalização de websites, temas e plugins. Especializado no desenvolvimento de soluções para o mercado imobiliário, incluindo automação de processos, integrações com APIs e otimização de performance. Conhecimento em UX/UI e SEO para garantir sites modernos e eficientes.
 
 💡 **Áreas de atuação:**
 - Desenvolvimento de plataformas imobiliárias e empresariais
